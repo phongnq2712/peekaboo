@@ -16,5 +16,6 @@ interact with the game as below:
 3. I give up - reveal the grid
 4. New game
 5. Exit
-   Your selection:
+
+Your selection:
 
