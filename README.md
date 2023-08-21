@@ -1,5 +1,6 @@
 # peekaboo
-# Author Quoc Phong Ngo
+Author: Quoc Phong Ngo  
+Copyright © 2023
 
 The game will display a square grid, with the columns
 labeled with letters, and the rows with numbers.
